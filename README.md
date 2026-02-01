@@ -1,90 +1,106 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EssuthiAnge&show_icons=true&theme=radical)
 
+#  Bonjour, je suis **ESSUTHI MBANGUE ANGE ARMEL**
 
-# 👋 Bonjour, je suis **Essuthi Ange**
+ *Étudiant en Master 1 – Sciences des Données & Développement Logiciel*  
+📍 Yaoundé, Cameroun | ✉️ essuthiange@gmail.com/mbangueange@gmail.com  
+ LinkedIn : https://linkedin.com/in/essuthi  
+ GitHub : https://github.com/EssuthiAnge
 
- *Étudiant en Master 1 – Sciences des Données*  
- Passionné par l’analyse de données, l’optimisation, et l’apprentissage automatique  
- Yaoundé, Cameroun |  essuthiange@gmail.com  
-
-Je suis spécialisé dans l’exploration de données, l’optimisation numérique, les séries temporelles et les algorithmes de machine learning.  
-Ce GitHub reflète mes projets scientifiques et académiques liés à mes cours et travaux pratiques en Informatique et Science des Données.
+Je suis passionné par l’**intelligence artificielle**, la **science des données**, et le **développement logiciel** appliqué à des solutions réelles (web, mobile, IA).
 
 ---
 
 ##  Compétences Techniques
 
-**Langages & outils :**  
- Python |  Jupyter Notebook |  SymPy |  Scikit-Learn |  pandas |  Matplotlib  
-
-**Domaines d’intérêt :**  
-✔ Data Mining  
-✔ Optimisation numérique  
-✔ Séries temporelles  
-✔ Régression logistique  
-✔ Analyse de données exploratoires  
-
----
-
-##  Projets Sélectionnés
-
-Voici une sélection de projets que j’ai réalisés dans le cadre de mes cours et travaux pratiques :
+###  Langages & Technologies
+| Catégorie | Technologies |
+|-----------|--------------|
+| **Langages de programmation** | Python , JavaScript, SQL |
+| **Data Science & Machine Learning** | Scikit-Learn, TensorFlow, PyTorch |
+| **Data Engineering** | pandas, NumPy, SQL |
+| **Dev & Deployment** | Git & GitHub, Docker, REST APIs |
+| **Visualisation & Analyse** | Matplotlib, Seaborn, Plotly |
+| **Méthodes et pratiques** | Tests unitaires, clean code |
 
 ---
 
-###  **INF4117 — DataMining – Travaux Pratiques**
- *Repository des travaux pratiques du cours de Data Mining*  
- Contient des notebooks Jupyter démontrant l’analyse de données et l’extraction de motifs.  
- Concepts : clustering, classification, évaluation de modèles.
+##  Domaines d’intérêt
+
+✔ Machine Learning & Deep Learning  
+✔ Vision par ordinateur (Computer Vision)  
+✔ Traitement du langage naturel (NLP)  
+✔ Automatic Speech Recognition (ASR)  
+✔ Backend, APIs & Applications Full-Stack  
+✔ Optimisation et modélisation
 
 ---
 
-###  **INF4127 – Optimisation II – Calcul Symbolique avec SymPy**
- *Calcul symbolique en Python avec SymPy*  
- Comprend un rapport PDF et un notebook avec des démonstrations pratiques.  
- Concepts : calcul symbolique, manipulation symbolique, optimisation.
+##  Projets Personnels & Collaboratifs
+
+Voici une sélection de mes projets en science des données, apprentissage automatique, et développement logiciel.
 
 ---
 
-###  **INF4127 – Optimisation Numérique**
- *Notebooks de fonctions classiques d’optimisation*  
- Contient :  
-- Rosenbrock.ipynb  
-- Quadratique.ipynb  
-- Himmelblau.ipynb  
-   Concepts : optimisation de fonctions non convexes, visualisation des surfaces.
+### 🔹 **Reconnaissance vocale en Yemba**
+*Automatic Speech Recognition (ASR) avec RNN Seq2Seq et attention*  
+ Projet universitaire visant à transcrire automatiquement la langue Yemba via un modèle d’apprentissage profond.  
+ **Mon rôle :** analyse des données, développement du modèle, tests et corrections, contrôle de qualité du code.  
+ https://github.com/NFChristianJ/RNN-pour-ASR-en-Yemba
 
 ---
 
-###  **INF4127 – UnLocBoX**
- *Implémentation de méthodes d’optimisation avancées dans Jupyter Notebook*  
- Exploration de librairies d’optimisation et méthodes itératives.
+### 🔹 **Classification des invertébrés marins**
+*Application web & mobile de classification d’espèces marines*  
+ Projet intégrant des modèles de deep learning pour identifier des invertébrés marins à partir d’images.  
+ **Mon rôle :** analyse des données, gestion de projet, tests, contrôle de l’application et corrections.  
+ https://github.com/NFChristianJ/Classification-des-invertebres-marins
 
 ---
 
-###  **Time-Series-Group – Étude DTW**
- *Analyse de séries temporelles via Dynamic Time Warping (DTW)*  
- Implémentation complète de l’algorithme DTW  
- Concepts : similarité de séries, alignement, applications temporelles.
+### 🔹 **INF4117 – Data Mining (Travaux Pratiques)**
+Analyse de données, extraction de motifs, clustering et classification via notebooks Python.
 
 ---
 
-### **TP – Régression Logistique & Optimisation**
-*Comparaison des solveurs d’optimisation de Scikit-Learn*  
- Analyse de l’impact des solveurs (lbfgs, liblinear, newton-cg, sag, saga) sur le modèle  
- Concepts : régression logistique, tuning d’hyperparamètres, performance des algorithmes.
+### 🔹 **INF4127 – Optimisation numérique & symbolique**
+Calcul symbolique avec SymPy, optimisation des fonctions, visualisation.
 
 ---
 
-## Contact
-
- Email : essuthiange@gmail.com  
- LinkedIn : https://linkedin.com/in/essuthi
- GitHub : https://github.com/EssuthiAnge  
+### 🔹 **Étude de séries temporelles – Dynamic Time Warping (DTW)**
+Analyse des similarités entre séries temporelles avec algorithmie avancée.
 
 ---
 
-##  Merci de visiter mon profil GitHub !
+### 🔹 **TP – Régression Logistique & Optimisation**
+Comparaison de solveurs Scikit-Learn pour optimiser les performances d’un modèle de classification.
 
-Je suis actuellement à la recherche d’opportunités en **data analyst / machine learning / data engineering**, disponibles **en présentiel à Yaoundé ou en remote.**
+---
 
+##  Outils & Méthodes
+
+✔ Versionning avec Git & GitHub  
+✔ Développement structuré (clean code)  
+✔ Pipelines de preprocessing et évaluation  
+✔ Documentation claire et reproductibilité  
+✔ Approche collaborative (code review, travail d’équipe)
+
+---
+
+##  Contact
+
+ **Email :** essuthiange@gmail.com / mbangueange@gmail.com
+ **LinkedIn :** https://linkedin.com/in/essuthi  
+ **GitHub :** https://github.com/EssuthiAnge
+
+---
+
+##  Je suis actuellement à la recherche de :
+
+ Opportunités en **Développement logiciel**, **Machine Learning / IA**, **Data Engineering**  
+📍 Disponibilité : **Présentiel à Yaoundé** ou **Remote**
+
+---
+
+Merci de visiter mon profil GitHub ! 
