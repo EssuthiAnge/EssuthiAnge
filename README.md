@@ -78,8 +78,8 @@ Voici une sélection de projets que j’ai réalisés dans le cadre de mes cours
 
 ## Contact
 
- Email : essuthiange@example.com  
- LinkedIn : linkedin.com/in/essuthi 
+ Email : essuthiange@gmail.com  
+ LinkedIn : https://linkedin.com/in/essuthi
  GitHub : https://github.com/EssuthiAnge  
 
 ---
