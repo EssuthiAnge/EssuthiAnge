@@ -5,7 +5,7 @@
 
  *Étudiant en Master 1 – Sciences des Données*  
  Passionné par l’analyse de données, l’optimisation, et l’apprentissage automatique  
- Yaoundé, Cameroun |  essuthiange@example.com  
+ Yaoundé, Cameroun |  essuthiange@gmail.com  
 
 Je suis spécialisé dans l’exploration de données, l’optimisation numérique, les séries temporelles et les algorithmes de machine learning.  
 Ce GitHub reflète mes projets scientifiques et académiques liés à mes cours et travaux pratiques en Informatique et Science des Données.
@@ -79,7 +79,7 @@ Voici une sélection de projets que j’ai réalisés dans le cadre de mes cours
 ## Contact
 
  Email : essuthiange@example.com  
- LinkedIn : linkedin.com/in/essuthi  
+ LinkedIn : linkedin.com/in/essuthi 
  GitHub : https://github.com/EssuthiAnge  
 
 ---
