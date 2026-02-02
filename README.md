@@ -16,7 +16,7 @@ Je suis passionné par l’**intelligence artificielle**, la **science des donn�
 ###  Langages & Technologies
 | Catégorie | Technologies |
 |-----------|--------------|
-| **Langages de programmation** | Python , JavaScript, SQL |
+| **Langages de programmation** | Python, c, Java, R, HTML/CSS, Kotlin, C++, TypeScript, JavaScript, SQL |
 | **Data Science & Machine Learning** | Scikit-Learn, TensorFlow, PyTorch |
 | **Data Engineering** | pandas, NumPy, SQL |
 | **Dev & Deployment** | Git & GitHub, Docker, REST APIs |
@@ -46,7 +46,7 @@ Voici une sélection de mes projets en science des données, apprentissage autom
 *Automatic Speech Recognition (ASR) avec RNN Seq2Seq et attention*  
  Projet universitaire visant à transcrire automatiquement la langue Yemba via un modèle d’apprentissage profond.  
  **Mon rôle :** analyse des données, développement du modèle, tests et corrections, contrôle de qualité du code.  
- https://github.com/NFChristianJ/RNN-pour-ASR-en-Yemba
+ https://github.com/EssuthiAnge/RNN-pour-ASR-en-Yemba
 
 ---
 
@@ -54,7 +54,7 @@ Voici une sélection de mes projets en science des données, apprentissage autom
 *Application web & mobile de classification d’espèces marines*  
  Projet intégrant des modèles de deep learning pour identifier des invertébrés marins à partir d’images.  
  **Mon rôle :** analyse des données, gestion de projet, tests, contrôle de l’application et corrections.  
- https://github.com/NFChristianJ/Classification-des-invertebres-marins
+🔗 https://github.com/EssuthiAnge/Classification-des-invertebres-marins
 
 ---
 
