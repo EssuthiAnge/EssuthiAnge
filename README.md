@@ -2,10 +2,7 @@
 
 #  Bonjour, je suis **ESSUTHI MBANGUE ANGE ARMEL**
 
- *Étudiant en Master 1 – Sciences des Données & Développement Logiciel*  
-📍 Yaoundé, Cameroun | ✉️ essuthiange@gmail.com/mbangueange@gmail.com  
- LinkedIn : http://linkedin.com/in/ange-armel-essuthi-mbangue-05bb81306
- GitHub : https://github.com/EssuthiAnge
+ *Étudiant en Master 1 – Sciences des Données & Développement Logiciel* 
 
 Je suis passionné par l’**intelligence artificielle**, la **science des données**, et le **développement logiciel** appliqué à des solutions réelles (web, mobile, IA).
 
