@@ -3,7 +3,6 @@
 #  Bonjour, je suis **ESSUTHI MBANGUE ANGE ARMEL**
 
  *Étudiant en Master 1 – Sciences des Données* 
-
 Je suis passionné par l’**intelligence artificielle**, la **science des données**, et le **développement logiciel** appliqué à des solutions réelles (web, mobile, IA).
 
 ---
