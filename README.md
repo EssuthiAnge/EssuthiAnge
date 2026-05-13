@@ -2,8 +2,7 @@
 
 # ESSUTHI MBANGUE ANGE ARMEL
 
-### Data Science Master's Student • AI Enthusiast • Full-Stack Developer
-
+### Master's Degree Holder in Data Science • AI Enthusiast • Full-Stack Developer
 <p align="center">
   Passionate about Artificial Intelligence, Data Science, and Software Engineering applied to real-world solutions.
 </p>
@@ -28,7 +27,7 @@
 
 # About Me
 
-- Master's student in **Data Science**
+- Graduated with a Master's degree in **Data Science**
 - Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**
 - Interested in building impactful solutions for:
   - Healthcare
